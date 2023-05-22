@@ -1,0 +1,47 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>Erdwin Dominguez</h2>
+  <hr />
+  <br>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Drawing</li>
+    <li>Photography</li>
+    <li>Design</li>
+    <li>Videogames</li>
+    <li>Comics</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Graphic Design And Illustration</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+    <a href="hhttps://www.kbcc.cuny.edu/">
+      <li>KingsBorough Community College</li>
+    </a>
+    <!--Link-->
+    <a href="https://www.silvermineart.org/">
+      <li>Bushwick School of social studies</li>
+    </a>
+    <li>Codeacademy</li>
+  </ul>
+  <p class="head">Experience</p>
+  <ul>
+    <li>Packaging Design and Color correction at TC Transcontinental </li>
+    <li>Babysitter</li>
+  </ul>
+  <p class="head">Extracurriculars</p>
+  <ul>
+    <li>Animation Club</li>
+    <li>Comicbook Club</li>
+    <li>Book Club</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Erdwin</h2></div> 
+  
